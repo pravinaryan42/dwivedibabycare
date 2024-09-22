@@ -1,0 +1,40 @@
+.margin-10 {
+    margin: 20px;
+}
+.text-center {
+    text-align: center !important;
+}
+.form-group {
+    margin-bottom: 1rem;
+}
+.auth-pages a.btn-facebook {
+    background-image: -webkit-gradient(linear, left top, right top, from(#318be3), to(#04befe));
+    color: #ffffff;
+    border: none;
+    line-height: 1.88;
+    position: relative;
+}
+.auth-pages button {
+    font-family: "Gudea", sans-serif;
+    font-size: 15px;
+    text-align: center;
+    color: #ffffff;
+    border: none;
+    width: 100%;
+}
+
+.btn {
+    font-weight: 600;
+    transition: .5s;
+}
+.auth-pages a.btn {
+    height: 39px;
+    font-family: Gudea;
+    width: 100%;
+}
+
+.auth-pages button.enter-btn {
+    height: 39px;
+    background-image: -webkit-gradient(linear, left top, right top, from(#318be3), to(#04befe));
+   
+}

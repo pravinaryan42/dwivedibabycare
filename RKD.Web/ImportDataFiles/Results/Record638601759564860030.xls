@@ -1,0 +1,4 @@
+FID	DISTRICT	BLOCK	GP	VILLAGE	HABITATION	LATITUDE	LONGITUDE	PROPERTYID	PROPERTYTYPE	NUMBER_OF_FLOORS	CONSTRUCTIONTYPE	CONSUMERNAME	PHONENO	FAMILYCOUNT	WATERSUPPLYTYPE	SUPPLY_IN_HOURS	NUMBER_OF_CONNECTIONS	REMARKS	STATUS	SURVEYOR_LOCATION	USERNAME	CONNECTIONSTATUS	CONNECTIONPHOTO	Result	Reason	
+7	Agra	Barauli	ahir kakrari	Kakrari	Kakrari	27.06715985	78.02342158	P1719022766516	residential	1	Pakka	Ramesh chandra	9759852380	10	Tubewell			Okay	Completed	78.02342158 27.06715985	avijit			Failed	Allergy name already exists	
+8	Agra	Barauli	ahir kakrari	Kakrari	Kakrari	27.06706068	78.02332814	P1719023240620	residential	1	Pakka	Shiv ram singh	7618349551	13	Tubewell			Okay	Completed	78.02345223 27.06718457	avijit			Failed	Allergy name already exists	
+9	Agra	Barauli	ahir kakrari	Kakrari	Kakrari	27.06701798	78.02356947	P1719023605071	residential	1	Pakka	Puren singh	9149150197	12	Tubewell			Okay	Completed	78.0235709 27.06698778	avijit			Failed	Allergy name already exists	
